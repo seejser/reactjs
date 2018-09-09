@@ -11,9 +11,13 @@ npm install react-router-dom
 ### 关于自定义
 
 1.项目 eject
+
 2.替换 react-scripts 包
+
 3.使用 react-app-rewired
+
 4.scripts 包 + override 组合
+
 
 自己用[react-app-rewired](https://github.com/timarney/react-app-rewired#3-flip-the-existing-calls-to-react-scripts-in-npm-scripts)这种方式
 
