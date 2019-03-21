@@ -65,7 +65,7 @@ $ npm run build
 
 ```
 
-6） yarn错误The engine "node" is incompatible with this module
+6) yarn错误The engine "node" is incompatible with this module
 ```
 yarn config set ignore-engines true
 ```
