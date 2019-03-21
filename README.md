@@ -64,4 +64,11 @@ $ npm start
 $ npm run build
 
 ```
+
+6） yarn错误The engine "node" is incompatible with this module
+```
+yarn config set ignore-engines true
+```
+
+
 参考：[如何扩展 Create React App 的 Webpack 配置](https://juejin.im/post/5a5d5b815188257327399962)
